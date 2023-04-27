@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ts": "typescript",
+        "iosfwd": "cpp",
+        "tuple": "cpp",
+        "string": "cpp",
+        "__config": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}
